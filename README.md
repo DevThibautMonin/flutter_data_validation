@@ -14,8 +14,8 @@ It’s important to note that this method is solely intended to ensure that all 
 
 # Dependencies
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-- [dart_mappable](https://pub.dev/packages/dart_mappable)
 - [build_runner](https://pub.dev/packages/build_runner)
+- [dart_mappable](https://pub.dev/packages/dart_mappable)
 - [dart_mappable_builder](https://pub.dev/packages/dart_mappable)
 
 # Code generation commands
