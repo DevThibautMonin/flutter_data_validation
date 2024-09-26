@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    avoid_print: true
+    always_use_package_imports: true
+    package_names: true
+    constant_identifier_names: true
+    unawaited_futures: true
+    avoid_void_async: true
+    discarded_futures: true

@@ -25,3 +25,22 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+.DS_Store
+devtools_options.yaml
+
+# Ignore generated files
+*.g.dart
+*.freezed.dart
+*.mapper.dart
+*.init.dart
+
+# Test coverage
+coverage/
+
+# FVM Version Cache
+.fvm/
+
+# Ignore IDE
+.idea/
+.vscode/
