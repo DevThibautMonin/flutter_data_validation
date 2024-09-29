@@ -12,6 +12,10 @@ The submit button is encapsulated within a BlocBuilder, which listens to the sta
 
 It’s important to note that this method is solely intended to ensure that all required fields are properly filled. It does not validate the format of the data (e.g., checking an email address format using a regex or verifying password length).
 
+# Medium article
+
+https://medium.com/@hqcfqdy/flutter-data-validation-with-bloc-c7be7dfdee37
+
 # Dependencies
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [build_runner](https://pub.dev/packages/build_runner)
