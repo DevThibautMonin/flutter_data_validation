@@ -33,6 +33,7 @@ class DataValidationScreen extends StatelessWidget {
                   CustomTextfield(
                     textEditingController: _passwordController,
                     labelText: "Password",
+                    isPassword: true,
                     onChanged: (value) {
                       _dataValidationBloc.add(UpdatePasswordEvent(password: value));
                     },
